@@ -48,6 +48,12 @@ This Bash script is a personalized terminal-based Snake game with custom colors,
 
 The game hides the cursor and disables echoing of typed characters during gameplay to provide a clean experience. These settings are restored when you exit the game.
 
+## Credits and References
+
+This game is inspired by and based on the Bash Snake game created by pjhades. You can find the original project at:
+- [pjhades/bash-snake](https://github.com/pjhades/bash-snake)
+
+
 ---
 
 Enjoy the game and challenge yourself to achieve the highest score!
